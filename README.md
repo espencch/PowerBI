@@ -2,7 +2,7 @@
 ##An analysis of singapore annual population of car by Make
 Source : data.gov.sg 
 [Dataset Link](https://github.com/espencch/PowerBI)
-![Screenshot of dashboard](https://flic.kr/ps/42fLp7)
+![Screenshot of dashboard](https://live.staticflickr.com/65535/52898292253_9d40e96911_z.jpg)
 
 
 Description:
